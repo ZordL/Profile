@@ -11,6 +11,6 @@ I am a developer with a keen interest in games. This includes designing systems,
 Here are recommendations for starting a game development of my choice, communicated through communities, learning, and study
 
 ## Roblox
-### Forums
-![https://devforum.roblox.com](https://www.pngkey.com/png/detail/240-2401471_tried-my-hand-at-it-roblox-developer-logo.png)
+### IDEs
+![]([https://www.pngkey.com/png/detail/240-2401471_tried-my-hand-at-it-roblox-developer-logo.png](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white))
 
