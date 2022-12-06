@@ -12,5 +12,5 @@ Here are recommendations for starting a game development of my choice, communica
 
 ## Roblox
 ### Forums
-![](https://devforum.roblox.com)
+![https://devforum.roblox.com]()
 
