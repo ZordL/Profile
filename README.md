@@ -11,6 +11,9 @@ I am a developer with a keen interest in games. This includes designing systems,
 Here are recommendations for starting a game development of my choice, communicated through communities, learning, and study
 
 ## Roblox
-### IDEs
-![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+### IDE
+![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) 
+
+### Social & Work
+![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white) ![](https://aleen42.github.io/badges/src/reddit.svg)
 
