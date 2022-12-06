@@ -12,5 +12,5 @@ Here are recommendations for starting a game development of my choice, communica
 
 ## Roblox
 ### Forums
-![https://devforum.roblox.com](https://www.pngkey.com/png/detail/240-2401471_tried-my-hand-at-it-roblox-developer-logo.png" alt="Tried My Hand At It - Roblox Developer Logo@pngkey.com)
+![https://devforum.roblox.com](https://www.pngkey.com/png/detail/240-2401471_tried-my-hand-at-it-roblox-developer-logo.png)
 
